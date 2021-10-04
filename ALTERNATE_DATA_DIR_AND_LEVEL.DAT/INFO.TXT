@@ -1,0 +1,20 @@
+ALTERNATE_DATA_DIR_AND_LEVEL.DAT.rar
+Holds %appdata%\.minecraft\data with functions used in commandblocks located in the level.dat file.
+In the data\functions\exxabite and data\functions\abc there are more functions. Like tnt_up.mcfunction that makes large spirals of tnt etc.
+It is all 1.12.2 because after 1.12.2 the syntax for the /setblock and /fill commands has changed.
+In 1.12.2 a block is replaced by putting a box of like wood on air while replacing all with the keep from the /fill with command block.
+If you want to change them to 1.12.2+ versions you need to adapt them. 
+For examples see: https://github.com/HakkaTjakka/exxabites-floodfills
+Its a mix of 1.12.2 functions and 1.12.2+ functions, you can use it to see the difference.
+If someone comes up with a mod that can run the 1.12.2 functions (copy the code?) in 1.12.2+ versions, plz call me.
+For examples of blowing up stuff with the xplosives mod see https://www.youtube.com/channel/UCQxTjKzyYsHF1GLQ6ET5gUA/
+
+For making recordings (set synchronize on, works only on local world, not on server...) timelapse use the minema mod.
+For using camera use the Bauwercam mod.
+For using physics bomb use the xplosives mod (server to) (Needed with the data\functions\exxabite stuff)
+Server is Magma server, that uses forge server so you als can use the plugins on the server like multiverse core and portals.
+(For jumping between worlds on the server with multivers portals PLUGIN.)
+For usage / configuration of all those google or msg me.
+When using the command blocks that recursive fill up stuff the movement gets laggy (movementcheck), because the movement is updated very slowly.
+Because of all the command blocks running. If you have a mod for that to fix this, msg me. The fly.jar doesnt work there.
+Tia.

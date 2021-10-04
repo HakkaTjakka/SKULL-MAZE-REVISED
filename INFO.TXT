@@ -17,4 +17,9 @@ Server is Magma server, that uses forge server so you als can use the plugins on
 For usage / configuration of all those google or msg me.
 When using the command blocks that recursive fill up stuff the movement gets laggy (movementcheck), because the movement is updated very slowly.
 Because of all the command blocks running. If you have a mod for that to fix this, msg me. The fly.jar doesnt work there.
+
+The railcraft mod doesn't work with the magma server however, so i cleaned up the level.dat dir with dmc-1.0-SNAPSHOT.jar.
+I'm working on that, if you know how to let it work together with the magma server msg me plz. (For rail fun).
+On local worlds it works ok, however the level.dat is filled with rails stuff you don't want. It keeps hanging.
+
 Tia.
